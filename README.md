@@ -16,7 +16,7 @@ The dataset for this project can be found at: https://www.kaggle.com/datasets/te
 The overleaf report can be found at: https://www.overleaf.com/read/fxvbrswhjxkb
 
 ## Research Goals
-The goal of this research is to develop a machine learning model that accurately predicts the line-item value for antiretroviral drugs and HIV lab supplies that are to be shipped to countries negatively affected by the HIV/AIDS endemic. The goal is to make these predictions using a regression algorithm based off of known characteristics of the desired drug or lab test that could be found on a purchase order sent to a vendor or manufacturer. If a successful model is created, this could help nations and organizations better plan for future purchases of antiretroviral drugs and HIV supplies without having to wait for price quotes from manufacturers.
+This project aims to determine medical costs billed by health insurance depending on age, BMI, dependents, and whether or not the patient smokes. The rest of this paper is organized by the methodology, cleaning data, and results. 
 
 
 ## Setup
