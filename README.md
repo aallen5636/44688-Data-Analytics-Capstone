@@ -33,7 +33,7 @@ The following applications installed for ta his project:
 
 After completing the linear, polynomial, and elastic net regression, all of the models performed about the same. One exception is the Linear Regression for region which appears to be performing under the mean of the target with an $R^2$ at 0.0001 for the training set and -0.0015 for the test set. This means that the independent variable, region, increases, and the dependent variable, charges, decreases. This means that Region has a very low correlation to charges. Charges are similar in all regions. Even though Sex and children don't have a negative $R^2$, we can see a low correlation. It was determined after the project that additional data may be beneficial to get a better prediction in the future for insurance charges. 
 
-![Results](Regression Results.png)
+<img width="717" alt="Regression Results " src="https://user-images.githubusercontent.com/95989498/233857065-6abccdcc-e06a-4bf7-8920-3c6b40128e95.png">
 
 ## Future Work
 
